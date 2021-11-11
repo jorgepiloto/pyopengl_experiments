@@ -1,0 +1,8 @@
+black
+flake8
+glfw
+isort
+numpy
+PyOpenGL
+PyOpenGL-accelerate
+scipy
